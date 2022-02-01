@@ -1,4 +1,4 @@
-package tutorial.one;
+package tutorial.first;
 
 public class RunnableExample implements Runnable{
 

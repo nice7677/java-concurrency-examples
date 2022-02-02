@@ -1,4 +1,4 @@
-package tutorial.second;
+package kr.springboot.tutorial.second;
 
 import java.time.LocalDateTime;
 import java.util.concurrent.Executors;

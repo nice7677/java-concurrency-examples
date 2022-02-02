@@ -1,4 +1,4 @@
-package tutorial.third;
+package kr.springboot.tutorial.third;
 
 import java.util.concurrent.*;
 

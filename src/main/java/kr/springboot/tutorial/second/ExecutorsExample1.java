@@ -1,4 +1,4 @@
-package tutorial.second;
+package kr.springboot.tutorial.second;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

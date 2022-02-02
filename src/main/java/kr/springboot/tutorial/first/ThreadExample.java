@@ -1,4 +1,4 @@
-package tutorial.first;
+package kr.springboot.tutorial.first;
 
 public class ThreadExample extends Thread{
 

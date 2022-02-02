@@ -1,4 +1,4 @@
-package tutorial.fourth;
+package kr.springboot.tutorial.fourth;
 
 public class VolatileKeywordExample {
 
